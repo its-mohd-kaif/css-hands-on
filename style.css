@@ -114,3 +114,6 @@ body {
 .pink-text {
   color: pink !important;
 }
+body {
+  background-color: #000000;
+}
