@@ -48,3 +48,8 @@ p {
 #cat-photo-form {
   background-color: green;
 }
+.blue-box {
+  background-color: blue;
+  color: #fff;
+  padding: 20px;
+}
