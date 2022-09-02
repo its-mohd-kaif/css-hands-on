@@ -1,7 +1,12 @@
-/*  <!-- Change the Color of Text --> */
-h2{
-    color:red;
+h2 {
+  color: red;
 }
-.class{
-    color: blue;
+.class {
+  color: blue;
+}
+.red-text {
+  color: red;
+}
+p {
+  font-size: 16px;
 }
