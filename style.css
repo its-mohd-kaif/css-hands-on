@@ -97,3 +97,8 @@ p {
 body {
   background-color: black;
 }
+body {
+  color: green;
+  font-family: monospace;
+  background-color: black;
+}
