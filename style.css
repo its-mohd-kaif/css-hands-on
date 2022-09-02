@@ -89,3 +89,8 @@ p {
   margin-top: 10px;
   margin-bottom: 15px;
 }
+.red-box {
+  padding: 1.5em;
+  background-color: red;
+  margin: 20px 40px 20px 40px;
+}
